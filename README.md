@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Shoriful Islam
 
-<!--
-**mdshorifulislam41/mdshorifulislam41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student from Bangladesh
+💻 Currently learning **Python Backend Development**
+🚀 Trying to build projects and improve coding skills every day
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills I'm Learning
+
+* Python 🐍
+* Backend Development
+* Git & GitHub
+* Problem Solving
+
+---
+
+## 📚 Current Focus
+
+* Learning Python deeply
+* Building small backend projects
+* Understanding real-world development
+
+---
+
+## 🌱 Goal
+
+To become a skilled **Backend Developer** and contribute to **Open Source Projects**.
+
+---
+
+⭐ *Always learning something new.*
